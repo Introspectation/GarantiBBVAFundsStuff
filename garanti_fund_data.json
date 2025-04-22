@@ -1,0 +1,850 @@
+[
+  {
+    "code": "GZP",
+    "name": "Birinci Fon Sepeti Fonu",
+    "description": "Garanti Portföy Birinci Fon Sepeti Fonu, dengeli varlık dağılımı ve piyasa koşullarına göre aktif yönetim stratejisi ile orta-uzun vadede TL bazında mevduat üstü getiri sağlamayı hedeflemektedir.",
+    "price": "4.692195",
+    "size": "2.195.111.856",
+    "returns": {
+      "1M": "%3.11",
+      "3M": "%8.94",
+      "6M": "%20.58",
+      "YTD": "%12.34",
+      "1Y": "%43.12",
+      "3Y": "%236.86",
+      "IPO": "%369.22"
+    }
+  },
+  {
+    "code": "GZJ",
+    "name": "İkinci Fon Sepeti Fonu",
+    "description": "Garanti Portföy İkinci Fon Sepeti Fonu, dinamik varlık dağılımı ve piyasa koşullarına göre aktif yönetim stratejisi ile orta-uzun vadede yüksek getiri sağlamayı hedeflemektedir.",
+    "price": "5.497577",
+    "size": "1.626.405.523",
+    "returns": {
+      "1M": "%2.54",
+      "3M": "%3.95",
+      "6M": "%16.89",
+      "YTD": "%7.26",
+      "1Y": "%37.19",
+      "3Y": "%264.52",
+      "IPO": "%449.76"
+    }
+  },
+  {
+    "code": "GVI",
+    "name": "Üçüncü Fon Sepeti Fonu",
+    "description": "Garanti Portföy Üçüncü Fon Sepeti Fonu, agresif bir varlık dağılımı ve piyasa koşullarına göre aktif yönetim stratejisi ile orta-uzun vadede yüksek getiri sağlamayı hedeflemektedir.",
+    "price": "3.674598",
+    "size": "1.544.196.376",
+    "returns": {
+      "1M": "%1.56",
+      "3M": "%-0.22",
+      "6M": "%12.10",
+      "YTD": "%3.53",
+      "1Y": "%23.68",
+      "3Y": "%-",
+      "IPO": "%267.46"
+    }
+  },
+  {
+    "code": "GZV",
+    "name": "ESG Sürdürülebilirlik Fon Sepeti Fonu",
+    "description": "'Sürdürülebilir Yatırım' anlayışıyla varlık seçimleri yaparak hem yüksek bir finansal performans hem de sürdürülebilir bir gelecek için şirketlerin ESG konularında hassasiyet göstermesinin teşvik edilmesini amaçlar. Birikimlerinizi orta-uzun vade bakış açısıyla değerlendirirken, çevresel, sosyal ve kurumsal yönetişim konularında performansı yüksek şirketlerin performansına ortak olmak isterseniz, Garanti Portföy ESG Sürdürülebilirlik Fon Sepeti Fonu'nu tercih edebilirsiniz.",
+    "price": "5.149048",
+    "size": "72.706.418",
+    "returns": {
+      "1M": "%-2.75",
+      "3M": "%-0.60",
+      "6M": "%2.83",
+      "YTD": "%1.01",
+      "1Y": "%16.43",
+      "3Y": "%175.12",
+      "IPO": "%414.90"
+    }
+  },
+  {
+    "code": "GTL",
+    "name": "Birinci Para Piyasası (TL) Fonu",
+    "description": "Garanti Portföy Birinci Para Piyasası (TL) Fonu ile hem likiditesi yüksek hem de düzenli getiri sağlayan bir enstrümana yatırım yapabilirsiniz. Bu Fon ile anapara değerinin korunarak pozitif getiri sağlanması hedeflenmektedir. Garanti BBVA dijital bankacılık kanalları üzerinden hızlı ve kolayca alım-satım emri verebilirsiniz, paranız anında hesabınıza geçer.",
+    "price": "0.079122",
+    "size": "76.939.527.707",
+    "returns": {
+      "1M": "%3.51",
+      "3M": "%10.88",
+      "6M": "%24.93",
+      "YTD": "%13.71",
+      "1Y": "%59.35",
+      "3Y": "%173.73",
+      "IPO": "%691.22"
+    }
+  },
+  {
+    "code": "GAL",
+    "name": "İkinci Para Piyasası (TL) Fonu",
+    "description": "Garanti Portföy İkinci Para Piyasası (TL) Fonu ile hem likiditesi yüksek hem de düzenli getiri sağlayan bir enstrümana yatırım yapabilirsiniz. Bu Fon ile anapara değerinin korunarak pozitif getiri sağlanması hedeflenmektedir. Garanti BBVA şubeleri üzerinden bu fonda anlık işlem yapabilirsiniz, satış yaptığınızda paranız hemen hesabınıza geçer.",
+    "price": "242.818116",
+    "size": "58.755.972.598",
+    "returns": {
+      "1M": "%3.44",
+      "3M": "%10.82",
+      "6M": "%24.85",
+      "YTD": "%13.64",
+      "1Y": "%59.31",
+      "3Y": "%173.54",
+      "IPO": "%8175.82"
+    }
+  },
+  {
+    "code": "GPZ",
+    "name": "Üçüncü Para Piyasası Fonu",
+    "description": "Garanti Portföy Üçüncü Para Piyasası Fonu yatırımcılarına düşük riskli aynı zamanda likiditesi yüksek enstrümanlara yatırım yaparak istikrarlı bir getiri potansiyeli sunmayı hedefler.",
+    "price": "1.143321",
+    "size": "3.284.265.521",
+    "returns": {
+      "1M": "%3.78",
+      "3M": "%11.70",
+      "6M": "%-",
+      "YTD": "%-",
+      "1Y": "%-",
+      "3Y": "%-",
+      "IPO": "%14.33"
+    }
+  },
+  {
+    "code": "TGT",
+    "name": "Kısa Vadeli Borçlanma Araçları Fonu",
+    "description": "Likit kalarak aynı zamanda düşük riskli ve kısa vadeli kamu/özel sektör borçlanma araçlarından oluşan bir portföy ile birikimlerinizi Garanti Portföy Kısa Vadeli Borçlanma Araçları Fonu'nda değerlendirebilirsiniz.",
+    "price": "0.071832",
+    "size": "2.307.612.179",
+    "returns": {
+      "1M": "%2.90",
+      "3M": "%9.80",
+      "6M": "%23.47",
+      "YTD": "%12.45",
+      "1Y": "%53.95",
+      "3Y": "%154.42",
+      "IPO": "%618.32"
+    }
+  },
+  {
+    "code": "GA1",
+    "name": "Borçlanma Araçları Fonu",
+    "description": "Ağırlıklı olarak borçlanma araçlarından oluşan bir portföyle birikimlerinizi Garanti Portföy Borçlanma Araçları Fonu'nda değerlendirebilirsiniz.",
+    "price": "1.277864",
+    "size": "848.618.719",
+    "returns": {
+      "1M": "%0.69",
+      "3M": "%0.64",
+      "6M": "%13.06",
+      "YTD": "%3.89",
+      "1Y": "%37.92",
+      "3Y": "%149.40",
+      "IPO": "%6793.60"
+    }
+  },
+  {
+    "code": "GPA",
+    "name": "Eurobond Borçlanma Araçları (Döviz) Fonu",
+    "description": "Garanti Portföy Eurobond Borçlanma Araçları (Döviz) Fonu ağırlıklı olarak kamu veya özel sektör şirketlerinin yurtdışında ihraç ettiği döviz cinsi borçlanma araçlarına (eurobondlara) yatırım yapar.",
+    "price": "16.162862",
+    "size": "756.344.067",
+    "returns": {
+      "1M": "%1.18",
+      "3M": "%7.87",
+      "6M": "%11.77",
+      "YTD": "%8.47",
+      "1Y": "%26.64",
+      "3Y": "%213.81",
+      "IPO": "%1516.29"
+    }
+  },
+  {
+    "code": "GUB",
+    "name": "Özel Sektör Borçlanma Araçları Fonu",
+    "description": "Garanti Portföy Özel Sektör Borçlanma Araçları Fonu birikimlerini özel sektör borçlanma araçlarından oluşan bir portföyde değerlendirmek isteyen yatırımcılar için tasarlanmıştır. Fon toplam değerinin en az %80’i, devamlı olarak yerli ve yabancı özel sektör borçlanma araçlarına yatırılır. Fon ağırlıklı olarak özel sektör tarafından ihraç edilmiş olan borçlanma araçlarına yatırım yaparak orta-uzun vadede istikrarlı getiri sağlamayı amaçlamaktadır.",
+    "price": "1.522132",
+    "size": "1.180.987.248",
+    "returns": {
+      "1M": "%3.46",
+      "3M": "%10.92",
+      "6M": "%24.63",
+      "YTD": "%13.44",
+      "1Y": "%-",
+      "3Y": "%-",
+      "IPO": "%52.21"
+    }
+  },
+  {
+    "code": "GUV",
+    "name": "Uzun Vadeli Borçlanma Araçları Fonu",
+    "description": "Garanti Portföy Uzun Vadeli Borçlanma Araçları Fonu birikimlerini uzun vadeli borçlanma araçları ile değerlendirmek isteyen yatırımcılar için tasarlanmıştır.",
+    "price": "1.194127",
+    "size": "1.619.983.688",
+    "returns": {
+      "1M": "%-0.44",
+      "3M": "%-5.09",
+      "6M": "%7.18",
+      "YTD": "%-0.11",
+      "1Y": "%-",
+      "3Y": "%-",
+      "IPO": "%19.41"
+    }
+  },
+  {
+    "code": "GAH",
+    "name": "Mutlak Getiri Hedefli Değişken Fon",
+    "description": "Garanti Portföy Mutlak Getiri Hedefli Değişken Fon dengeli bir varlık dağılımıyla ve orta-uzun vadeli yatırım perspektifiyle TL mevduat seviyelerini aşmayı hedeflemektedir.",
+    "price": "7.805479",
+    "size": "299.215.843",
+    "returns": {
+      "1M": "%3.85",
+      "3M": "%9.58",
+      "6M": "%22.10",
+      "YTD": "%13.13",
+      "1Y": "%47.29",
+      "3Y": "%241.32",
+      "IPO": "%680.55"
+    }
+  },
+  {
+    "code": "INH",
+    "name": "ING Bank Özel Bankacılık ve Platinum Değişken Özel Fon",
+    "description": "Garanti Portföy ING Bank Özel Bankacılık ve Platinum Değişken Özel Fon, geniş bir yelpazede, farklı varlık gruplarına yatırım yapılması ve buna paralel olarak fonun aktif bir şekilde yönetilmesi esasına dayanan stratejisiyle, orta-uzun vadede TL bazında yüksek getiri sağlamayı hedeflemektedir.",
+    "price": "8.997696",
+    "size": "92.357.663",
+    "returns": {
+      "1M": "%2.98",
+      "3M": "%8.52",
+      "6M": "%23.57",
+      "YTD": "%11.79",
+      "1Y": "%44.85",
+      "3Y": "%244.05",
+      "IPO": "%799.77"
+    }
+  },
+  {
+    "code": "GID",
+    "name": "İnşaat Sektörü Değişken Fon",
+    "description": "Garanti Portföy İnşaat Sektörü Değişken Fon birikimlerini inşaat sektöründe değerlendirmek isteyen yatırımcılar için tasarlanmıştır.",
+    "price": "1.158182",
+    "size": "168.642.010",
+    "returns": {
+      "1M": "%2.33",
+      "3M": "%1.54",
+      "6M": "%21.28",
+      "YTD": "%3.04",
+      "1Y": "%-",
+      "3Y": "%-",
+      "IPO": "%15.82"
+    }
+  },
+  {
+    "code": "GZH",
+    "name": "Temiz Enerji Değişken Fon",
+    "description": "Garanti Portföy Temiz Enerji Değişken Fon ile temiz, yenilenebilir ve/veya alternatif enerji teknolojilerinde faaliyet gösteren yerli ve yabancı şirketlerin sermaye piyasası araçlarına yatırım yaparak, orta-uzun vadede yüksek getiri potansiyeli sağlamayı hedeflemektedir.",
+    "price": "2.483385",
+    "size": "75.825.056",
+    "returns": {
+      "1M": "%-4.52",
+      "3M": "%-4.23",
+      "6M": "%-3.50",
+      "YTD": "%-4.66",
+      "1Y": "%-5.42",
+      "3Y": "%90.81",
+      "IPO": "%148.34"
+    }
+  },
+  {
+    "code": "GZG",
+    "name": "Sağlık Sektörü Değişken Fon",
+    "description": "Garanti Portföy Sağlık Sektörü Değişken Fon, sağlık sektöründe faaliyet gösteren şirketlerin yanı sıra, aşı teknolojileri, genetik, biyoteknoloji gibi alanlarda faaliyet gösterip sağlık sektörüne hizmet/servis ve ürün sağlayan şirketlere de yatırım yapan geniş bir temaya sahiptir. Sağlık sektöründeki getiri potansiyelinden yararlanmak isteyen yatırımcılar için tasarlanmıştır.",
+    "price": "4.358181",
+    "size": "36.181.348",
+    "returns": {
+      "1M": "%-1.87",
+      "3M": "%1.60",
+      "6M": "%4.42",
+      "YTD": "%3.80",
+      "1Y": "%17.59",
+      "3Y": "%168.61",
+      "IPO": "%335.82"
+    }
+  },
+  {
+    "code": "GZL",
+    "name": "Tarım ve Gıda Sektörü Değişken Fon",
+    "description": "Garanti Portföy Tarım ve Gıda Sektörü Değişken Fon birikimlerini değerlendirirken, tarım ve gıda sektöründeki getiri potansiyelinden yararlanmak isteyen yatırımcılar için tasarlanmıştır.",
+    "price": "3.451757",
+    "size": "186.209.559",
+    "returns": {
+      "1M": "%-0.81",
+      "3M": "%0.81",
+      "6M": "%4.95",
+      "YTD": "%3.98",
+      "1Y": "%1.08",
+      "3Y": "%106.54",
+      "IPO": "%245.18"
+    }
+  },
+  {
+    "code": "GBV",
+    "name": "Blockchain Teknolojileri Değişken Fon",
+    "description": "Garanti Portföy Blockchain Teknolojileri Değişken Fon birikimlerini değerlendirirken blockchain (blokzincir) teknolojileri getiri potansiyelinden yararlanmak isteyen yatırımcılar için tasarlanmıştır.",
+    "price": "5.408774",
+    "size": "1.045.992.359",
+    "returns": {
+      "1M": "%-4.20",
+      "3M": "%-13.84",
+      "6M": "%4.57",
+      "YTD": "%-7.66",
+      "1Y": "%25.93",
+      "3Y": "%291.03",
+      "IPO": "%440.88"
+    }
+  },
+  {
+    "code": "GZZ",
+    "name": "Finans Sektörü Değişken Fon",
+    "description": "Garanti Portföy Finans Sektörü Değişken Fon ile hem geleneksel finans hem de “fintech” alanında faaliyet gösteren şirketlere yatırım yapabilirsiniz.",
+    "price": "4.667565",
+    "size": "74.704.860",
+    "returns": {
+      "1M": "%-3.46",
+      "3M": "%-3.98",
+      "6M": "%11.20",
+      "YTD": "%0.71",
+      "1Y": "%21.57",
+      "3Y": "%241.92",
+      "IPO": "%366.76"
+    }
+  },
+  {
+    "code": "GZY",
+    "name": "Turizm ve Seyahat Sektörü Değişken Fon",
+    "description": "Garanti Portföy Turizm ve Seyahat Sektörü Değişken Fon birikimlerini değerlendirirken, turizm ve seyahat sektöründeki getiri potansiyelinden yararlanmak isteyen yatırımcılar için tasarlanmıştır.",
+    "price": "5.212448",
+    "size": "72.229.054",
+    "returns": {
+      "1M": "%-2.86",
+      "3M": "%-2.29",
+      "6M": "%7.65",
+      "YTD": "%-0.03",
+      "1Y": "%19.80",
+      "3Y": "%241.01",
+      "IPO": "%421.24"
+    }
+  },
+  {
+    "code": "MET",
+    "name": "Metaverse ve Yeni Teknolojiler Değişken Fon",
+    "description": "Garanti Portföy Metaverse ve Yeni Teknolojiler Değişken Fon birikimlerini değerlendirirken, Metaverse ve yeni teknolojilerin getiri potansiyelinden yararlanmak isteyen yatırımcılar için tasarlanmıştır.",
+    "price": "3.101503",
+    "size": "465.868.690",
+    "returns": {
+      "1M": "%-1.21",
+      "3M": "%-1.09",
+      "6M": "%10.67",
+      "YTD": "%1.81",
+      "1Y": "%23.83",
+      "3Y": "%242.08",
+      "IPO": "%210.15"
+    }
+  },
+  {
+    "code": "GVA",
+    "name": "Elektrikli ve Otonom Araçlar Değişken Fon",
+    "description": "Garanti Portföy Elektrikli ve Otonom Araçlar Değişken Fon elektrikli, hibrit ve otonom araçların üretimine yatırım yapmak isteyen yatırımcılar için tasarlanmıştır. Fon ağırlıklı olarak aşağıda sıralanan faaliyetlerde bulunan, araştırma/geliştirme çalışmaları yapan şirketlerin veya bu şirketlere hizmet/servis veya ürün sağlayan şirketlerin ihraç ettikleri yerli/yabancı ortaklık paylarına, Amerikan (ADR) ve Global (GDR) depo sertifikalarına, yerli borçlanma araçlarına, yerli kira sertifikalarına ve bahsi geçen temaya yatırım imkanı sağlayan yerli yatırım fonları ile yerli/yabancı borsa yatırım fonlarına yapılan yatırımlardan oluşacaktır.",
+    "price": "2.292244",
+    "size": "50.181.362",
+    "returns": {
+      "1M": "%-5.92",
+      "3M": "%-9.94",
+      "6M": "%-2.89",
+      "YTD": "%-7.88",
+      "1Y": "%0.85",
+      "3Y": "%-",
+      "IPO": "%129.22"
+    }
+  },
+  {
+    "code": "SGT",
+    "name": "Siber Güvenlik Teknolojileri Değişken Fon",
+    "description": "Fon Bilgileri\nGaranti Portföy Siber Güvenlik Teknolojileri Değişken Fon, siber güvenlik sektörüne yatırım yapmak isteyen yatırımcılara yönelik tasarlanmıştır.",
+    "price": "1.010502",
+    "size": "19.191.638",
+    "returns": {
+      "1M": "%-0.91",
+      "3M": "%-",
+      "6M": "%-",
+      "YTD": "%-",
+      "1Y": "%-",
+      "3Y": "%-",
+      "IPO": "%1.05"
+    }
+  },
+  {
+    "code": "YIT",
+    "name": "Yarı İletken Teknolojileri Değişken Fon",
+    "description": "Garanti Portföy Yarı İletken Teknolojileri Değişken Fon, yarı iletken teknolojileri alanına yatırım yapmak isteyen yatırımcılara yönelik tasarlanmıştır.",
+    "price": "0.908854",
+    "size": "5.014.427",
+    "returns": {
+      "1M": "%-8.82",
+      "3M": "%-",
+      "6M": "%-",
+      "YTD": "%-",
+      "1Y": "%-",
+      "3Y": "%-",
+      "IPO": "%-9.11"
+    }
+  },
+  {
+    "code": "GTA",
+    "name": "Altın Fonu",
+    "description": "Altın Fonu'nun amacı dünya altın piyasasındaki fiyat gelişmelerini fonun yatırımcısına yansıtmaktır. Ağırlıklı olarak borsada işlem gören altın ve altına dayalı para ve sermaye piyasası araçları ile altına dayalı mevduat ve katılma hesaplarına yatırılır.",
+    "price": "1.033213",
+    "size": "12.469.041.171",
+    "returns": {
+      "1M": "%12.30",
+      "3M": "%33.16",
+      "6M": "%28.46",
+      "YTD": "%36.94",
+      "1Y": "%53.93",
+      "3Y": "%315.43",
+      "IPO": "%10137.94"
+    }
+  },
+  {
+    "code": "GTZ",
+    "name": "Gümüş Fon Sepeti Fonu",
+    "description": "Garanti Portföy Gümüş Fon Sepeti Fonu yatırımcısına gümüşe kolay yatırım yapma imkanı sunuyor. Fon ağırlıklı olarak gümüşe dayalı yatırım fonu ve gümüş endeksini takip etmek üzere kurulu yerli/yabancı borsa yatırım fonlarına yatırım yapar.",
+    "price": "5.134201",
+    "size": "3.689.251.920",
+    "returns": {
+      "1M": "%0.32",
+      "3M": "%14.30",
+      "6M": "%8.13",
+      "YTD": "%21.58",
+      "1Y": "%37.12",
+      "3Y": "%203.68",
+      "IPO": "%413.42"
+    }
+  },
+  {
+    "code": "GBJ",
+    "name": "Bankacılık Sektörü Hisse Senedi Serbest Fon (Hisse Senedi Yoğun Fon)",
+    "description": "Garanti Portföy Bankacılık Sektörü Hisse Senedi Serbest Fon (Hisse Senedi Yoğun Fon), birikimlerini bankacılık sektöründe değerlendirmek isteyen Nitelikli Yatırımcılar için tasarlanmıştır.",
+    "price": "0.993614",
+    "size": "438.335.350",
+    "returns": {
+      "1M": "%-3.42",
+      "3M": "%-21.43",
+      "6M": "%0.72",
+      "YTD": "%-16.66",
+      "1Y": "%-",
+      "3Y": "%-",
+      "IPO": "%-0.64"
+    }
+  },
+  {
+    "code": "GHS",
+    "name": "Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "description": "Fon ağırlıklı olarak Borsa İstanbul'da işlem gören yerli hisse senetlerine yatırım yapar. Fon portföyü orta-uzun vadede piyasa ortalamaları üzerinde büyüme potansiyeli olan şirket hisse senetlerinden oluşturulmaktadır.",
+    "price": "26.698746",
+    "size": "2.443.583.351",
+    "returns": {
+      "1M": "%5.05",
+      "3M": "%-5.85",
+      "6M": "%10.19",
+      "YTD": "%-3.16",
+      "1Y": "%7.49",
+      "3Y": "%457.95",
+      "IPO": "%35010.53"
+    }
+  },
+  {
+    "code": "GAE",
+    "name": "BIST 30 Endeksi Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "description": "Fon ağırlıklı olarak BIST 30 Endeksi'nde yer alan hisse senetlerine yatırım yapar. Fon, hisse senedi piyasalarındaki fırsatlardan yararlanarak orta-uzun vadede tasarrufların büyümesini hedefler ve endeks getirisini %90 korelasyon ile takip eder.",
+    "price": "0.282594",
+    "size": "1.446.479.460",
+    "returns": {
+      "1M": "%3.07",
+      "3M": "%-6.98",
+      "6M": "%7.13",
+      "YTD": "%-4.23",
+      "1Y": "%-0.39",
+      "3Y": "%266.45",
+      "IPO": "%5524.88"
+    }
+  },
+  {
+    "code": "GOH",
+    "name": "BIST 100 Dışı Şirketler Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "description": "Fon ağırlıklı olarak BIST 100 Endeksi dışındaki yerli hisse senetlerine ve bu hisse senetlerinden oluşan endeksleri takip etmek üzere kurulu olan borsa yatırım fonlarına yatırım yapar.",
+    "price": "10.691579",
+    "size": "622.811.520",
+    "returns": {
+      "1M": "%9.12",
+      "3M": "%-4.90",
+      "6M": "%19.21",
+      "YTD": "%-5.06",
+      "1Y": "%10.26",
+      "3Y": "%532.31",
+      "IPO": "%969.16"
+    }
+  },
+  {
+    "code": "GZR",
+    "name": "Sürdürülebilirlik Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "description": "Fon ağırlıklı olarak BIST Sürdürülebilirlik Endeksi'nde yer alan hisse senetlerine fon portföyünde yer vererek Türkiye'nin belli ölçekteki şirketlerine yatırım yapmak ve sermaye kazancı elde etmeyi hedefler.",
+    "price": "8.020861",
+    "size": "783.347.683",
+    "returns": {
+      "1M": "%2.32",
+      "3M": "%-6.06",
+      "6M": "%8.46",
+      "YTD": "%-4.17",
+      "1Y": "%4.24",
+      "3Y": "%340.99",
+      "IPO": "%702.09"
+    }
+  },
+  {
+    "code": "GTM",
+    "name": "Temettü Ödeyen Şirketler Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "description": "Garanti Portföy Temettü Ödeyen Şirketler Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon) birikimlerini temettü ödeyen şirketlerin hisse senetleri performansıyla değerlendirmek isteyen yatırımcılar için tasarlanmıştır.",
+    "price": "4.811765",
+    "size": "961.546.491",
+    "returns": {
+      "1M": "%3.67",
+      "3M": "%-6.77",
+      "6M": "%10.40",
+      "YTD": "%-4.37",
+      "1Y": "%6.91",
+      "3Y": "%-",
+      "IPO": "%381.18"
+    }
+  },
+  {
+    "code": "GIE",
+    "name": "Garanti BBVA İklim Endeksi Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "description": "Garanti Portföy Garanti BBVA İklim Endeksi Hisse Senedi (TL) Fon'un (Hisse Senedi Yoğun Fon) fon toplam değerinin en az %80'i devamlı olarak Garanti BBVA İklim Endeksinde (GBNIE) yer alan ihraççı paylarına ve bu paylardan oluşan endeksleri takip etmek üzere kurulu borsa yatırım fonlarına yatırılacaktır.",
+    "price": "2.469213",
+    "size": "171.622.054",
+    "returns": {
+      "1M": "%3.26",
+      "3M": "%-6.33",
+      "6M": "%9.75",
+      "YTD": "%-2.97",
+      "1Y": "%3.93",
+      "3Y": "%-",
+      "IPO": "%146.92"
+    }
+  },
+  {
+    "code": "GBH",
+    "name": "Birinci Hisse Senedi Serbest Fon (Hisse Senedi Yoğun Fon)",
+    "description": "Garanti Portföy Birinci Hisse Senedi Serbest Fon (Hisse Senedi Yoğun Fon) birikimlerini dinamik yönetilen bir hisse senedi portföyünde değerlendirmek isteyen Nitelikli Yatırımcılar için tasarlanmıştır.",
+    "price": "2.715959",
+    "size": "1.908.667.731",
+    "returns": {
+      "1M": "%5.11",
+      "3M": "%-6.15",
+      "6M": "%12.16",
+      "YTD": "%-2.85",
+      "1Y": "%3.06",
+      "3Y": "%-",
+      "IPO": "%171.60"
+    }
+  },
+  {
+    "code": "GUH",
+    "name": "Yabancı Teknoloji Hisse Senedi Fonu",
+    "description": "Garanti Portföy Yabancı Teknoloji Hisse Senedi Fonu ile teknoloji, teknolojik donanım, e-ticaret, biyoteknoloji, medikal teknoloji, yazılım, etkileşimli medya ve hizmetler ile diğer teknolojili temalı endekslerde yer alan yabancı ortaklık paylarından (hisse senetleri), bu sektörlerin depo sertifikaları ile bu endekslere dayalı yabancı borsa yatırım fonları aracılığıyla yatırım yaparak, birikimlerinizi orta-uzun vadede global teknoloji sektöründe değerlendirebilirsiniz.",
+    "price": "0.177733",
+    "size": "1.434.965.578",
+    "returns": {
+      "1M": "%-10.43",
+      "3M": "%-16.55",
+      "6M": "%-10.22",
+      "YTD": "%-13.83",
+      "1Y": "%5.11",
+      "3Y": "%163.13",
+      "IPO": "%1676.97"
+    }
+  },
+  {
+    "code": "MUT",
+    "name": "Mutlak Getiri Hedefli Hisse Senedi Serbest Fon (Hisse Senedi Yoğun Fon)",
+    "description": "Garanti Portföy Mutlak Getiri Hedefli Hisse Senedi Serbest Fon (Hisse Senedi Yoğun Fon) hisse senedi seçimleri ile hisse senedi piyasasının yönünden bağımsız şekilde mutlak getiri yaratmayı hedefler.",
+    "price": "1.291160",
+    "size": "2.296.619.860",
+    "returns": {
+      "1M": "%2.74",
+      "3M": "%6.80",
+      "6M": "%19.65",
+      "YTD": "%9.08",
+      "1Y": "%-",
+      "3Y": "%-",
+      "IPO": "%29.12"
+    }
+  },
+  {
+    "code": "GRT",
+    "name": "Teknoloji Şirketleri Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "description": "Fon Bilgileri\nGaranti Portföy Teknoloji Şirketleri Hisse Senedi (TL) Fonu, yerli teknoloji şirketlerine yatırım yapmak isteyen yatırımcılara yönelik tasarlanmıştır.",
+    "price": "0.989531",
+    "size": "9.461.191",
+    "returns": {
+      "1M": "%4.31",
+      "3M": "%-",
+      "6M": "%-",
+      "YTD": "%-",
+      "1Y": "%-",
+      "3Y": "%-",
+      "IPO": "%-1.05"
+    }
+  },
+  {
+    "code": "GTH",
+    "name": "İhracatçı Şirketler Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "description": "Fon Bilgileri\nGaranti Portföy İhracatçı Şirketler Hisse Senedi (TL) Fonu, yerli ihracatçı şirketlere yatırım yapmak isteyen yatırımcılara yönelik tasarlanmıştır.",
+    "price": "0.983523",
+    "size": "10.289.387",
+    "returns": {
+      "1M": "%1.97",
+      "3M": "%-",
+      "6M": "%-",
+      "YTD": "%-",
+      "1Y": "%-",
+      "3Y": "%-",
+      "IPO": "%-1.65"
+    }
+  },
+  {
+    "code": "GNS",
+    "name": "Enerji Şirketleri Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "description": "Garanti Portföy Enerji Şirketleri Hisse Senedi (TL) Fonu, yerli enerji şirketlerine yatırım yapmak isteyen yatırımcılara yönelik tasarlanmıştır.",
+    "price": "0.986301",
+    "size": "4.754.198",
+    "returns": {
+      "1M": "%8.63",
+      "3M": "%-",
+      "6M": "%-",
+      "YTD": "%-",
+      "1Y": "%-",
+      "3Y": "%-",
+      "IPO": "%-1.37"
+    }
+  },
+  {
+    "code": "GKG",
+    "name": "Kar Payı Ödeyen Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "description": "Fon Bilgileri\nGaranti Portföy Kar Payı Ödeyen Hisse Senedi (TL) Fonu’nun (Hisse Senedi Yoğun Fon) yatırım stratejisine göre, fon toplam değerinin en az %80’i devamlı olarak BIST’te işlem gören yerli ortaklık paylarına yatırılır. Fon’un yatırım stratejisi uyarınca ağırlıklı olarak BIST Temettü Endeksi’ne dâhil olan ortaklık paylarına ve BIST Temettü Endeksi’ne dahil olmamakla beraber temettü potansiyeli yüksek görülen ortaklık paylarına yatırım yapılır.",
+    "price": "0.880009",
+    "size": "13.849.083",
+    "returns": {
+      "1M": "%3.12",
+      "3M": "%-",
+      "6M": "%-",
+      "YTD": "%-",
+      "1Y": "%-",
+      "3Y": "%-",
+      "IPO": "%-10.00"
+    }
+  },
+  {
+    "code": "GPF",
+    "name": "Çoklu Varlık Katılım Fonu",
+    "description": "Garanti Portföy Çoklu Varlık Katılım Fonu birikimlerini orta-uzun vadeli bakış açısıyla katılım esaslarına uygun para ve sermaye piyasası araçlarından oluşan bir fon portföyünde değerlendirmek isteyen yatırımcılar için tasarlanmıştır.",
+    "price": "5.597859",
+    "size": "631.898.090",
+    "returns": {
+      "1M": "%2.90",
+      "3M": "%12.99",
+      "6M": "%23.56",
+      "YTD": "%15.50",
+      "1Y": "%33.42",
+      "3Y": "%159.71",
+      "IPO": "%459.79"
+    }
+  },
+  {
+    "code": "GKV",
+    "name": "Katılım Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "description": "Garanti Portföy Katılım Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon) faizsiz ve katılım finans ilkelerine uygun bir portföy ile yönetilecek olup, birikimlerine bu alanda yön vermek isteyenlere yönelik tasarlanmıştır.",
+    "price": "4.803992",
+    "size": "357.464.870",
+    "returns": {
+      "1M": "%3.04",
+      "3M": "%-4.26",
+      "6M": "%9.53",
+      "YTD": "%-3.14",
+      "1Y": "%6.29",
+      "3Y": "%-",
+      "IPO": "%380.40"
+    }
+  },
+  {
+    "code": "GKH",
+    "name": "Para Piyasası Katılım Serbest (TL) Fon",
+    "description": "Garanti Portföy Para Piyasası Katılım Serbest (TL) Fon katılım esaslarına göre yönetilen bir para piyasası fonuna yatırım yapmak isteyen Nitelikli Yatırımcılar için tasarlanmıştır.",
+    "price": "2.664107",
+    "size": "3.701.844.023",
+    "returns": {
+      "1M": "%3.43",
+      "3M": "%10.74",
+      "6M": "%23.74",
+      "YTD": "%13.39",
+      "1Y": "%56.07",
+      "3Y": "%-",
+      "IPO": "%166.41"
+    }
+  },
+  {
+    "code": "GOL",
+    "name": "Altın Katılım Fonu",
+    "description": "Garanti Portföy Altın Katılım Fonu altına dayalı faizsiz sermaye piyasası araçlarından oluşan bir portföyle birikimlerini değerlendirmek isteyen yatırımcılar için tasarlanmıştır.",
+    "price": "1.842131",
+    "size": "1.610.587.934",
+    "returns": {
+      "1M": "%11.54",
+      "3M": "%31.18",
+      "6M": "%32.00",
+      "YTD": "%36.29",
+      "1Y": "%56.19",
+      "3Y": "%-",
+      "IPO": "%84.21"
+    }
+  },
+  {
+    "code": "GPB",
+    "name": "SMART Temkinli Değişken Fon - Birinci Değişken Fon",
+    "description": "Yatırımları için akıllı strateji arayanlara SMART Fon Ailesi!",
+    "price": "7.560253",
+    "size": "888.430.462",
+    "returns": {
+      "1M": "%3.17",
+      "3M": "%8.95",
+      "6M": "%22.86",
+      "YTD": "%12.02",
+      "1Y": "%50.97",
+      "3Y": "%170.12",
+      "IPO": "%656.03"
+    }
+  },
+  {
+    "code": "GPI",
+    "name": "SMART Dengeli Değişken Fon - İkinci Değişken Fon",
+    "description": "Yatırımları için akıllı strateji arayanlara SMART Fon Ailesi!",
+    "price": "11.377641",
+    "size": "562.653.280",
+    "returns": {
+      "1M": "%3.67",
+      "3M": "%9.10",
+      "6M": "%21.15",
+      "YTD": "%12.64",
+      "1Y": "%44.62",
+      "3Y": "%241.17",
+      "IPO": "%1037.76"
+    }
+  },
+  {
+    "code": "GPU",
+    "name": "SMART Büyüme Değişken Fon - Üçüncü Değişken Fon",
+    "description": "Yatırımları için akıllı strateji arayanlara SMART Fon Ailesi!",
+    "price": "12.495991",
+    "size": "245.285.932",
+    "returns": {
+      "1M": "%2.70",
+      "3M": "%4.35",
+      "6M": "%18.93",
+      "YTD": "%7.55",
+      "1Y": "%39.69",
+      "3Y": "%237.31",
+      "IPO": "%1149.60"
+    }
+  },
+  {
+    "code": "TGA",
+    "name": "SMART Agresif Değişken Fon - Agresif Değişken Fon",
+    "description": "Yatırımları için akıllı strateji arayanlara SMART Fon Ailesi!",
+    "price": "0.334504",
+    "size": "929.038.720",
+    "returns": {
+      "1M": "%3.59",
+      "3M": "%-0.71",
+      "6M": "%16.62",
+      "YTD": "%2.77",
+      "1Y": "%26.48",
+      "3Y": "%438.50",
+      "IPO": "%3603.95"
+    }
+  },
+  {
+    "code": "GBN",
+    "name": "Beşinci Serbest (TL) Fon",
+    "description": "Garanti Portföy Beşinci Serbest (TL) Fon yatırımcılarına para piyasası fonlarına ve mevduata alternatif olabilecek bir yatırım imkanı sunma hedefiyle tasarlanmıştır. Fon, ağırlıklı olarak gecelik ve vadeli mevduata, kamu ve özel sektör borçlanma araçlarına para piyasası araçlarına ve bunlara dayalı türev ürünlere yatırım yaparak sermaye kazancı sağlamayı amaçlamaktadır.",
+    "price": "4.063958",
+    "size": "1.315.563.749",
+    "returns": {
+      "1M": "%3.62",
+      "3M": "%11.37",
+      "6M": "%25.40",
+      "YTD": "%14.17",
+      "1Y": "%60.18",
+      "3Y": "%188.17",
+      "IPO": "%306.40"
+    }
+  },
+  {
+    "code": "GZE",
+    "name": "Emtia Serbest Fon",
+    "description": "Garanti Portföy Emtia Serbest Fon, emtiaları takip etmek üzere kurulu olan borsa yatırım fonları ve bu temaya uygun yatırım fonları ile altın, gümüş ve diğer kıymetli madenlere ve bunları dayalı sermaye piyasası araçlarına yatırım yapar.",
+    "price": "4.527809",
+    "size": "182.819.082",
+    "returns": {
+      "1M": "%-2.44",
+      "3M": "%8.40",
+      "6M": "%15.95",
+      "YTD": "%14.93",
+      "1Y": "%21.94",
+      "3Y": "%111.93",
+      "IPO": "%352.78"
+    }
+  },
+  {
+    "code": "GTY",
+    "name": "Trend Serbest Fon",
+    "description": "Piyasa zamanlamasına ihtiyaç duymadan, en trend temalara tek bir fonda yatırım yapmak isteyenlere!",
+    "price": "3.797535",
+    "size": "129.384.189",
+    "returns": {
+      "1M": "%-0.68",
+      "3M": "%8.48",
+      "6M": "%8.48",
+      "YTD": "%11.12",
+      "1Y": "%25.63",
+      "3Y": "%131.56",
+      "IPO": "%279.75"
+    }
+  },
+  {
+    "code": "GJH",
+    "name": "Para Piyasası Serbest (TL) Fon",
+    "description": "Garanti Portföy Para Piyasası Serbest (TL) Fon aynı gün alım-satım imkanıyla birikimlerini düşük riskli ve kısa vadeli yatırım araçlarıyla değerlendirmek isteyen Garanti BBVA Nitelikli Yatırımcıları için tasarlanmıştır.",
+    "price": "2.314951",
+    "size": "92.672.084.927",
+    "returns": {
+      "1M": "%3.63",
+      "3M": "%11.37",
+      "6M": "%25.41",
+      "YTD": "%14.17",
+      "1Y": "%59.97",
+      "3Y": "%-",
+      "IPO": "%131.50"
+    }
+  }
+]
